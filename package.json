@@ -1,7 +1,6 @@
 {
   "name"         : "node-hkdf",
   "version"      : "0.0.1",
-  "private"      : true,
   "description"  : "HKDF key derivation function",
   "main"         : "index",
   "repository" : {

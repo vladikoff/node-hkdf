@@ -1,5 +1,5 @@
 {
-  "name"         : "node-hkdf",
+  "name"         : "hkdf",
   "version"      : "0.0.1",
   "description"  : "HKDF key derivation function",
   "main"         : "index",
@@ -7,7 +7,7 @@
     "type" : "git",
     "url"  : "https://github.com/benadida/node-hkdf"
   },
-  "dependencies" : {
+  "devDependencies" : {
     "vows": "0.5.13"
   },
   "author" : {
